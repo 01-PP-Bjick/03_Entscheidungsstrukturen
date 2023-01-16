@@ -25,9 +25,24 @@ console.log("------------------");
 // entweder JA oder nix ... alternativlos
 
 // if (true && true) 
-//if (isJohnOlder)
+// if (isJohnOlder)
 // if (ageJohn > ageMark) 
 // {
 //     console.log("John ist älter.");
- 
 // }
+
+/************ IF - ELSE  ************/
+// mit Alternative  
+// entweder ja oder nein
+
+// if (true)
+// if (false)
+// if (isJohnOlder)
+// if (ageJohn > ageMark)
+// {
+//     console.log("John ist älter.");    
+// } 
+//     else 
+//     {
+//         console.log("John ist jünger.");
+//     }
