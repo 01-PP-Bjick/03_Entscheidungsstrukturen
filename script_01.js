@@ -4,7 +4,7 @@
 
 // Deklaration + Assigment
 const ageJohn = 35;
-const ageMark = 35;
+const ageMark = 30;
 
 // Deklaration
 let isJohnOlder, isJohnEqual;
@@ -19,3 +19,15 @@ console.log("ageMark: " + ageMark);
 console.log("isJohnOlder: " + isJohnOlder);
 console.log("isJohnEqual: " + isJohnEqual);
 console.log("------------------");
+
+/************ IF  ************/
+// TINA --> There is no alternative!
+// entweder JA oder nix ... alternativlos
+
+// if (true && true) 
+//if (isJohnOlder)
+if (ageJohn > ageMark) 
+{
+    console.log("John ist älter.");
+ 
+}
